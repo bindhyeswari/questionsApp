@@ -1,0 +1,9 @@
+{
+    "name": "questionsApp",
+    "version": "0.1.1",
+    "main": "./main.js",
+    "dependencies": {
+        "angular" : "latest",
+        "jquery": "latest"
+    }
+}
